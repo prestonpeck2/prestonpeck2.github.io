@@ -161,3 +161,20 @@ body {
     padding: 0 20px 0 20px;
 }
 
+.project-title {
+    width: 25%;
+}
+
+.project-description {
+    width: 30%;
+}
+
+.project-image {
+    width: 20%;
+    height: 80%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+
